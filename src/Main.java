@@ -57,7 +57,5 @@ public class Main {
         workPeople += 94;
         totalWork = workDay * workPeople;
         System.out.println("Если в компании работает " + workPeople + " человек, то всего " + totalWork + " часов работы может быть поделено между сотрудниками");
-
-
     }
 }
